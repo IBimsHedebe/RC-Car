@@ -9,6 +9,11 @@ Heute habe ich mit dem neuen Projekt angefangen. Die ersten Teile für mein Proje
 
 Ich habe erstmal nur diese Sachen bestellt, da ich erst mit der Lenkung anfangen möchte. Ein Servo ist dort nicht vorhanden da ich schon einen zuhause habe (SG90).
 
+## Eintrag vom 20. - 21. Dezember 2025
+Ich habe mit der ersten Version von der Lenkung angefangen. Diese besteht momentan nur aus einem Viereck gelenk zum drehen der Reifen und einem Hebelarm zur Federung. Das Design ist nur ein Work of Progress und ist moch lange nicht das fertig Produkt.
+- [Lenkung V1](../Dokumentation/Bilder/Lenkung_V1.png)
+- [Lenkung V1 Dateien](../Dokumentation/3D_Modelle/Lenkung_V1.f3d)
+
 ## Eintrag vom 23. Dezember 2025
 Bevor ich aber mit dem ersten Design der Lenkung anfange, habe ich mit der Elektrotechnik angefangen. Dort habe ich im Internet nachgeschaut um herauszufinden wie ich mit den Empfänger den Servo für die Lenkung ansteuer. 
 Da ist aufgefallen das meine bestellte Batteriehalter mit den 3x AA Baterien nicht ausreicht und habe dann meinen etwas älteren Batteriehalter für 4x AA Baterien benutzt mit dem das dann auch ging.
@@ -32,4 +37,44 @@ Ich habe mir dann auch noch ein paar weitere Uteensilien bestellt die ich für da
 - Wiederstände Set (https://amzn.eu/d/ebyYEvR)
 - Schrumpfschlauch Set (https://amzn.eu/d/fTmEgeS)
 - Keramik Kondensator Set (https://amzn.eu/d/0SDwGgC)
+
+## Eintrag vom 7. Januar 2026
+Heute sind die letzten bestellten Teile angekommen. Ich habe zwar auch schon eine zweite Version gemacht, habe aber die Dateien davon Verloren. Also habe ich V3 der Lenkung gemacht. Diese ist deutlich besser, da ich hier versucht habe die Feder starr zu befestigen, was nicht wirklich funktionierte. und zur Federung nutzte ich jetzt die viereck Gelenke die ich in V1 als Lenkung benutzt habe.
+Hier habe ich aber statt eine viereck Lenkung, den Servo benutzt um aus der Rotierenden Bewegung eine Lineare Bewegung zu machen, aber dazu kam ich nicht.
+- [Lenkung V3](../Dokumentation/Bilder/Lenkung_V3.png)
+- [Lenkung V3 Dateien](../Dokumentation/3D_Modelle/Lenkung_V3.f3z)
+
+Außerdem sind mir ein paar Probleme aufgefallen:
+- Das Kugelgelenk gibt mir nicht genug Freiraum um meine Federung funktional zu machen.
+- Die Feder hat immer noch zu viel Spielraum.
+
+## Eintrag vom 18. - 29. Januar 2026
+Ich habe mir überlegt die Lenkung nochmal von neu anzufangen. Bei V4 habe ich jetzt das Kugelgelenk durch ein einfaches Schanier ersetzt. Auch habe ich die Feder jetzt seperat von der Achse wo ich das Rad befestigen möchte angebracht. Auch habe ich das gesamte design deutlich kleiner gemacht als V1 - V3. Die Federung habe ich auch stabilisierne können indem ich sie auf stangen gehängt habe und links sowie rechts davon Abstandhalter befästigt.
+Das was nun noch fehlt ist die Anbringung der Reifen und das Implementieren der Lenkung mit dem Servo.
+Bevor ich das aber mache, sind mir noch ein paar Probleme aufgefallen:
+- Die Federung hat jetzt in der y-Achse zu wenig Spielraum und kann fast gar nicht mehr federn.
+
+- [Lenkung V4](../Dokumentation/Bilder/Lenkung_V4.png))
+- [Lenkung V4 Dateien](../Dokumentation/3D_Modelle/Lenkung_V4.f3z)
+
+## Eintrag vom 29. Januar 2026
+Ich habe jetzt die nächste Version V5 der Lenkung angefangen. Dort ist das Prinzip der Federung eingentlich gleich geblieben nur die Fehler vom vorgänger wurden behoben. Auch wurde die Lenkung mit dem Servo angegangen. Meine Grundsätzliche Idee ist es das der Servo ein Zahnrad dreht und das dan zwei Racks rechst und links davon bewegt. Diese Racks sind dann mit den Hebelarmen verbunden die die Räder lenken.
+Nur bei der Radaufhängung habe ich nicht bedacht das wenn ich sie um den Schaft von der Gefederten Seite umlege, das die Federung komplett ignoriert wird.
+
+Probleme die noch bestehen:
+- Die Federung wird Ignoriert wenn ich die Radaufhängung um den Schaft der Gefederten Seite umlege.
+- Wenn ich die Reifen anbringe, kollidieren sie mit der Aufhängung.
+- Die Reifen können sich nicht wegen der Aufhängung drehen (Form momentan Sechseck, sollte Kreis sein).
+
+- [Lenkung V5.1](../Dokumentation/Bilder/Lenkung_V5.1.png))
+- [Lenkung V5.1 Dateien](../Dokumentation/3D_Modelle/Lenkung_V5.1.f3z)
+
+## Eintrag vom 31. Januar 2026
+Ich habe Die Aufhängung ein wenig überarbeitet. Jetzt kollidieren die Reifen nicht mehr mit der Aufhängung und lassen sich auch drehen, wenn sie angebracht werden.
+Neue Probleme die noch bestehen:
+- Das Lenken funktioniert nicht mehr, da sich die Radaufhängung mit dem Rack verkantet.
+- Die Radaufhängung sich nicht gerade hoch und runter bewegen, sodern erher kreisförmig.
+
+- [Lenkung V5.2](../Dokumentation/Bilder/Lenkung_V5.2.png))
+- [Lenkung V5.2 Dateien](../Dokumentation/3D_Modelle/Lenkung_V5.2.f3z)
 
