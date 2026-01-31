@@ -12,4 +12,4 @@ Ich habe erstmal nur diese Sachen bestellt, da ich erst mit der Lenkung anfangen
 ## Eintrag vom 23. Dezember 2025
 Bevor ich aber mit dem ersten Design der Lenkung anfange, habe ich mit der Elektrotechnik angefangen. Dort habe ich im Internet nachgeschaut um herauszufinden wie ich mit den Empfänger den Servo für die Lenkung ansteuer. 
 Da ist aufgefallen das meine bestellte Batteriehalter mit den 3x AA Baterien nicht ausreicht und habe dann meinen etwas älteren Batteriehalter für 4x AA Baterien benutzt mit dem das dann auch ging.
-- [Schaltkreisplan Lenkung](../Bilder/Schaltkreisplan_Lenkung.png)]
+- [Schaltkreisplan Lenkung](../Dokumentation/Bilder/Schaltkreisplan_Lenkung.png)]
