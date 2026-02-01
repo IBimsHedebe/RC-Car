@@ -91,3 +91,7 @@ Ansonsten verlief der Tag ganz gut und ich bin zufrieden mit dem Fortschritt.
 
 - [Lenkung V5.3](../Dokumentation/Bilder/Lenkung_V5.3.png))
 - [Lenkung V5.3 Dateien](../Dokumentation/3D_Modelle/Lenkung_V5.3.f3z)
+
+Aufgaben:
+- [ ] Die ganzen Teile an der gewünschten Stelle verschieben
+- [ ] ggf. Die Teile in Fusion beweglich zueinander machen um die Funktionalität zu digital testen
