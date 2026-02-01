@@ -78,3 +78,16 @@ Neue Probleme die noch bestehen:
 - [Lenkung V5.2](../Dokumentation/Bilder/Lenkung_V5.2.png))
 - [Lenkung V5.2 Dateien](../Dokumentation/3D_Modelle/Lenkung_V5.2.f3z)
 
+## Eintrag vom 1. Februar 2026
+Heute habe ich die Radaufhängung im großen und ganzen überarbeitet. Ich habe viele Test Versionen gemacht und auch fast alle getestet und alle mir aufgefallene Probleme behoben.
+Jetzt muss ich nur noch die Letzten Teile ausdrucken und zusammenbauen, um zu seghen ob alles so funktioniert wie ich es mir vorstelle.
+
+Mir sind viele Fehler begegnet. Zum einen hatte das Rack keinen Spielraum zum drehen wesshalb es sich immer verbog und irgendwann verkeilte. 
+Als ich dies behob und druckte, viel mir auf das es nicht mehr in die originale Halterung an den Seiten passte. Diese habe ich dann auch überarbeitet aber noch nicht testen können, was ich morgen nachgehen werde.
+
+Dann habe ich auch noch platz Probleme gehabt die ich beheben musste. Die Aufhängung für die Reifen hatten zu wenig Freiraum zur Viereckfederung und kolidierten ständig.
+
+Ansonsten verlief der Tag ganz gut und ich bin zufrieden mit dem Fortschritt.
+
+- [Lenkung V5.3](../Dokumentation/Bilder/Lenkung_V5.3.png))
+- [Lenkung V5.3 Dateien](../Dokumentation/3D_Modelle/Lenkung_V5.3.f3z)
