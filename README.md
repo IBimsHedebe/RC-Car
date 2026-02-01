@@ -11,4 +11,4 @@ Ein Standard RC Car was komplett selber designet und zusammengebaut ist.
 - [ ] letzte Details
 
 ## Dokumentation
-Siehe Ordner [Dokumentation](../Dokumentation)
+Siehe Ordner [Dokumentation](../main/Dokumentation)
