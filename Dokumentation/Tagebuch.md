@@ -105,4 +105,4 @@ Ich habe jetzt zwei Möglichkeiten. Die erste ist es, die Federung zu entfernen 
 
 Momentan würde ich gerne die erste Möglichkeit nehmen wollen, aus einfachheitsgründen und das ich schon mal einen funktionierenden Prototypen habe. Wenn dann alles später Funktioniert würde ich mich dann wieder an eine Lenkung mit einer Funktionierenden Feder setzten.
 
-- [ ] Lenkung V5.4 (ohne Federung)
+- [ ] Lenkung V6 (ohne Federung)
