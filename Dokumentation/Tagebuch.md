@@ -95,3 +95,14 @@ Ansonsten verlief der Tag ganz gut und ich bin zufrieden mit dem Fortschritt.
 Aufgaben:
 - [ ] Die ganzen Teile an der gewünschten Stelle verschieben
 - [ ] ggf. Die Teile in Fusion beweglich zueinander machen um die Funktionalität zu digital testen
+
+## Eintrag vom 4. Februar 2026
+Heute habe ich die mir Fehlenden Teile von V5.3 gedruckt und zusammengebaut. Als dann alles zusammnegebaut war und ich den Servo angeschlossen und angesteuert hatte, hat es sich nicht vernünftig gedreht.
+Das Problem hierbei war, dass die Federung die tiefer als die null Position ist und dadurch spannung auf die Racks und Zahnräder ausübt. Dadurch verkanten sich die Racks und die Ganze Lenkung funktioniert nicht. 
+Es war zwar möglich zu lenken aber nur in eine Richtung, da der Servo nicht genug Kraft hat um die Spannung auf den Racks zu überwinden.
+
+Ich habe jetzt zwei Möglichkeiten. Die erste ist es, die Federung zu entfernen und die Lenkung so zu lassen wie sie jetzt ist oder zweitens eine andere Art fürs lenken benutzten die nicht abhängig von der Federung ist in einem Perfekten Winkel zu sein.
+
+Momentan würde ich gerne die erste Möglichkeit nehmen wollen, aus einfachheitsgründen und das ich schon mal einen funktionierenden Prototypen habe. Wenn dann alles später Funktioniert würde ich mich dann wieder an eine Lenkung mit einer Funktionierenden Feder setzten.
+
+- [ ] Lenkung V5.4 (ohne Federung)
